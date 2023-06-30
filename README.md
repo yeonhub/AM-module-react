@@ -31,7 +31,7 @@ Staff.js    ┌   Staff.scss
 
 ## 추가 기능
 
-#### 1) 퇴사
+### 1) 퇴사
 
 <img src="./mdimg/fire.gif">
 
@@ -70,7 +70,7 @@ const StaffItem = ({ item, onDel, onLike }) => {
     }
 ```
 
-#### 2. 명단 추가
+### 2. 명단 추가
 
 <img src="./mdimg/add.gif">
 
